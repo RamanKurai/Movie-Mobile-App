@@ -5,7 +5,7 @@ export default function Index() {
     <View
      className="flex-1 justify-center items-center"
     >
-      <Text>Hlo welcome to my react</Text>
+      <Text>Hlo welcome to my react native</Text>
     </View>
   );
 }
